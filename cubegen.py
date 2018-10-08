@@ -27,3 +27,9 @@ while theta < 6.28:
         theta += twopi_over_8
 
 # py script will gen 8 cubes with its origins on every 45th angle of an unit circle 
+
+# start the drawing angle back at the center for each arm
+theta = 0.0
+
+# start the radial distance back at the center for each arm
+radialdist = 1.0
