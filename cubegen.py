@@ -8,7 +8,7 @@ testobj = bpy.ops.mesh.primitive_cube_add
 cursor = context.scene.cursor_location
 
 #Increase the radial distance the cube through the loop
-radialdist = 1.0
+radialdist = 6.0
 
 #initilize variables
 xsize = 1.0
